@@ -5,6 +5,4 @@
 - 📫 Reach me at samranahmed03@gmail.com
 - 😄 Pronouns: He/Him
 
-![Samran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samranahm&show_icons=true&theme=radical)
-
 [![Samran's Activity Graph](https://activity-graph.herokuapp.com/graph?username=samranahm&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
